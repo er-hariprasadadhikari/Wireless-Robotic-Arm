@@ -1,4 +1,4 @@
-# Bluetooth Controlled Robotic Arm (Arduino)
+# Wirelessly Controlled Robotic Arm (Arduino)
 
 This project demonstrates a **wirelessly controlled robotic arm** using two Arduino UNO boards and Bluetooth modules.  
 The controller reads potentiometer values and sends joint angles wirelessly.  
